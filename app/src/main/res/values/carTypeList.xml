@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carTypeList">
+        <item>소형</item>
+        <item>중형</item>
+        <item>대형</item>
+        <item>승합</item>
+        <item>화물</item>
+    </string-array>
+</resources>

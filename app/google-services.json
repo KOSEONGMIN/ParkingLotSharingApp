@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461373907162",
+    "firebase_url": "https://fcmpushapp-2df0f.firebaseio.com",
+    "project_id": "fcmpushapp-2df0f",
+    "storage_bucket": "fcmpushapp-2df0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461373907162:android:acbf4b56237b29e6",
+        "android_client_info": {
+          "package_name": "com.example.koseongmin.parksharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461373907162-nne53r9ghlk5ldkquv83h88eht362leu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJfkziMaszY_n3QvkR7iG3QXWtNEKdBSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461373907162-nne53r9ghlk5ldkquv83h88eht362leu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
